@@ -1,1 +1,1 @@
-# new_java
+# clear java project
